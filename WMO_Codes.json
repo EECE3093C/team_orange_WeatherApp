@@ -25,5 +25,17 @@
     "73": "Moderate Snowfall",
     "75": "Heavy Snowfall",
 
-    "77": "Snow Grains"
+    "77": "Snow Grains",
+
+    "80": "Slight Rain Showers",
+    "81": "Moderate Rain Showers",
+    "82": "Violent Rain Showers",
+
+    "85": "Slight Snow Showers",
+    "86": "Heavy Snow Showers",
+
+    "95": "Thunderstorm",
+
+    "96": "Thunderstorm with Slight Hail",
+    "99": "Thunderstorm with Heavy Hail"
 }
