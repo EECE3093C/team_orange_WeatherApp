@@ -18,7 +18,7 @@ class test_cloudy_codes(unittest.TestCase):
         self.assertEqual(test_api.read_weather_code(1), "Mainly Clear Sky")
     def test_partly_cloudy(self):
         """Tests Partly Cloudy"""
-        self.assertEqual(test_api.read_weather_code(1), "Partly Cloudy")
+        self.assertEqual(test_api.read_weather_code(2), "Partly Cloudy")
 
 if __name__== '__main__':
     unittest.main()
